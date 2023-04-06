@@ -1,7 +1,10 @@
 # Point-Cloud
 Paper
+
 ##CLIP
+
 [PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning](https://arxiv.org/abs/2211.11682) [CVPR2022; [Github](https://github.com/yangyangyang127/PointCLIP_V2)]
+
 [CLIP2: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data](https://arxiv.org/abs/2303.12417) [CVPR2023; [Github]]
 ## Few-shot
 
